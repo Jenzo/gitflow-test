@@ -12,5 +12,6 @@ public class App
 		System.out.println("Hello Steve!");
 		System.out.println("Hello Steve!");
 		System.out.println("Hello 1.2.rc2!");
+		System.out.println("Hello 1.3");
     }
 }
