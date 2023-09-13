@@ -3,7 +3,7 @@
 	<groupId>ToolsQA</groupId>
 	<artifactId>DemoMavenProject</artifactId>
 	<packaging>jar</packaging>
-	<version>1.7</version>
+	<version>1.8-SNAPSHOT</version>
 	<name>DemoMavenProject</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
